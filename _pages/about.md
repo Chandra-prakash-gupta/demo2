@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "चन्द्र प्रकाश गुप्ता"
+title: " "
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am the Dean & Director of Vidyasthali Law College. I completed my Ph.D. at Rajasthan University and subsequently served as a Postdoctoral Fellow at the Indian Council of Social Science Research (ICSSR) for two years.
+I am the Dean and Director of Vidyasthali Law College, with over 20 years of experience in academia and administration. I completed my Ph.D. at Rajasthan University and further advanced my research skills as a Postdoctoral Fellow at the Indian Council of Social Science Research (ICSSR) for two years. My journey in education has been defined by a commitment to fostering excellence in legal studies, mentoring students, and contributing to the academic growth of the institution I lead.
 
 Education
 ======
